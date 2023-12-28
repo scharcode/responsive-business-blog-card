@@ -1,0 +1,30 @@
+{
+  "name": "responsive-business-blog-card",
+  "version": "1.0.0",
+  "description": "This is a simple project made with pure HTML and CSS. This project is based on one of the challenges of devChallenges.",
+  "main": "src/index.html",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scharcode/responsive-business-blog-card.git"
+  },
+  "keywords": [
+    "responsive",
+    "business",
+    "blog",
+    "card",
+    "html",
+    "css"
+  ],
+  "author": "Andrés Soret Chacin <andressocha230@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scharcode/responsive-business-blog-card/issues"
+  },
+  "homepage": "https://github.com/scharcode/responsive-business-blog-card#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
